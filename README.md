@@ -16,4 +16,4 @@ Arduino tank control
 Назад 0
 
 
-Синтаксис: !Move <<direction>> <<duration>>\r\n
+Синтаксис: !Move direction duration\r\n
