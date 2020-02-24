@@ -3,7 +3,7 @@ Arduino tank control
 
 
 
-Directions
+# Directions
 
 Поворот налево = 4
 
@@ -16,4 +16,4 @@ Directions
 Назад 0
 
 
-Синтаксис: !Move <direction> <duration>\r\n
+Синтаксис: !Move <<direction>> <<duration>>\r\n
